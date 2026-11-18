@@ -5,12 +5,7 @@ A minimal, clean Fish shell prompt that displays command execution time on the l
 Made for **Fish shell** and used with **Kitty terminal**.
 
 ## Preview
-
-```text
-2s >                                      ~/Projects
-0s >                                      ~/Projects/app
-1m 12s >                                  ~/Downloads
-```
+![Fish Minimal Prompt Preview](screenshots/preview.png)
 
 ## Features
 
